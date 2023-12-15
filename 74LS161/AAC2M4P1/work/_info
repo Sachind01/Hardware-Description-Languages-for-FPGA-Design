@@ -1,0 +1,60 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vAAC2M4P1_tb
+!s110 1701333457
+!i10b 1
+!s100 X08nB14g:^5WcDGMI6fF72
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+ILEV3<[I2G0o[ZMAiJ=^Cl0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+!i119 1
+Z2 dD:/Verilog/74LS161/AAC2M4P1
+w1585378636
+8D:/Verilog/74LS161/AAC2M4P1/AAC2M4P1_tb.vp
+FD:/Verilog/74LS161/AAC2M4P1/AAC2M4P1_tb.vp
+!i122 1
+L0 65 59
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z4 !s108 1701333456.000000
+!s107 D:/Verilog/74LS161/AAC2M4P1/AAC2M4P1_tb.vp|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Verilog/74LS161/AAC2M4P1/AAC2M4P1_tb.vp|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@a@a@c2@m4@p1_tb
+vLS161a
+!s110 1701333456
+!i10b 1
+!s100 ^>JIMOYFdW9gDe_QziYfb2
+R0
+Ie?nQl4=K1NaZoXjWGaonB0
+R1
+R2
+w1701333345
+8D:/Verilog/74LS161/AAC2M4P1/AAC2M4P1.v
+FD:/Verilog/74LS161/AAC2M4P1/AAC2M4P1.v
+!i122 0
+L0 1 28
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Verilog/74LS161/AAC2M4P1/AAC2M4P1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Verilog/74LS161/AAC2M4P1/AAC2M4P1.v|
+!i113 1
+R5
+R6
+n@l@s161a
