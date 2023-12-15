@@ -1,106 +1,60 @@
 m255
 K4
 z2
-!s11e MIXED_VERSIONS
+!s11f vlog 2020.1 2020.02, Feb 28 2020
 13
 !s112 1.1
 !i10d 8192
 !i10e 25
 !i10f 100
 cModel Technology
-dD:/VHDL/ALU
-Eaac2m2h2_tb
-Z0 w1573322374
-Z1 DPx4 ieee 16 std_logic_textio 0 22 ^l:n6VFdg74Q?CKDhjD]D3
-Z2 DPx4 ieee 20 numeric_bit_unsigned 0 22 fQPIgHhiDaHPI@GGmF4c92
-Z3 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
-Z4 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
-Z5 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
-!i122 14
-Z6 dD:/VHDL/FIFO
-Z7 8D:/VHDL/FIFO/AAC2M2H2_tb.vhdp
-Z8 FD:/VHDL/FIFO/AAC2M2H2_tb.vhdp
-l0
-L50 1
-VaTdZ=1bCI7W=M1W>:C=CC0
-!s100 beO@c39B]_]0E@4d3EKgB1
-Z9 OV;C;2020.1;71
-32
-Z10 !s110 1700987868
+dD:/VHDL/FIFO
+vAAC2M4H2_tb
+Z0 !s110 1701499944
 !i10b 1
-Z11 !s108 1700987867.000000
-Z12 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/VHDL/FIFO/AAC2M2H2_tb.vhdp|
-Z13 !s107 D:/VHDL/FIFO/AAC2M2H2_tb.vhdp|
+!s100 =E[U68d:a[SVn2c<2GoTU1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Ioo`VI1oC4=^fE<ih:m9`F1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+!i119 1
+Z3 dD:/Verilog/FIFO
+w1573400818
+8D:/Verilog/FIFO/AAC2M4H2_tb.vp
+FD:/Verilog/FIFO/AAC2M4H2_tb.vp
+!i122 5
+L0 65 63
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1701499944.000000
+!s107 D:/Verilog/FIFO/AAC2M4H2_tb.vp|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Verilog/FIFO/AAC2M4H2_tb.vp|
 !i113 1
-Z14 o-work work -2002 -explicit
-Z15 tExplicit 1 CvgOpt 0
-Abehavioral
+Z6 o-work work
+Z7 tCvgOpt 0
+n@a@a@c2@m4@h2_tb
+vFIFO8x9
+R0
+!i10b 1
+!s100 nn[1E<j6kKm3b:MH3D4@]2
 R1
+I`>DPcWiP_3i8GADBNZAcC1
 R2
 R3
+w1701499941
+8D:/Verilog/FIFO/AAC2M4H2.v
+FD:/Verilog/FIFO/AAC2M4H2.v
+!i122 4
+L0 1 38
 R4
+r1
+!s85 0
+31
 R5
-Z16 DEx4 work 11 aac2m2h2_tb 0 22 aTdZ=1bCI7W=M1W>:C=CC0
-!i122 14
-l140
-Z17 L58 226
-Z18 VDOfnPIR7Le50IjNK4gi:]0
-Z19 !s100 l`k]515aeJ8gB<DKb9L]]0
-R9
-!i119 1
-32
-R10
-!i10b 1
-R11
-R12
-R13
+!s107 D:/Verilog/FIFO/AAC2M4H2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Verilog/FIFO/AAC2M4H2.v|
 !i113 1
-R14
-R15
-Efifo8x9
-Z20 w1700987855
-Z21 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
-Z22 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
-R3
-R4
-R5
-!i122 13
 R6
-Z23 8D:/VHDL/FIFO/AAC2M2H2.vhd
-Z24 FD:/VHDL/FIFO/AAC2M2H2.vhd
-l0
-L6 1
-V4e5cGF]LCF:9RXCC7@]`l0
-!s100 [JP<>Y6XZN:z?Yjl8YZYG3
-R9
-32
-Z25 !s110 1700987867
-!i10b 1
-R11
-Z26 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/VHDL/FIFO/AAC2M2H2.vhd|
-Z27 !s107 D:/VHDL/FIFO/AAC2M2H2.vhd|
-!i113 1
-R14
-R15
-Aarch_fifo8x9
-R21
-R22
-R3
-R4
-R5
-DEx4 work 7 fifo8x9 0 22 4e5cGF]LCF:9RXCC7@]`l0
-!i122 13
-l23
-L16 32
-VQZ`?<:hf0DTSf@mUG;mo[0
-!s100 K6IIHPbCfaLGAm5AHIX:13
-R9
-32
-R25
-!i10b 1
-R11
-R26
-R27
-!i113 1
-R14
-R15
+R7
+n@f@i@f@o8x9

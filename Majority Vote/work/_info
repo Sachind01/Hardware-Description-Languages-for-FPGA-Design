@@ -1,0 +1,60 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Verilog/Correct errors/AAC2M3P3
+vAAC2M3P4_tb
+Z0 !s110 1701150769
+!i10b 1
+!s100 S@bD9]cTjH>c3TIcFZ=KR3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I8ZBTh?NLUeU=G3:X;h3Fm3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+!i119 1
+Z3 dD:/Verilog/Majority Vote
+w1573387878
+8D:/Verilog/Majority Vote/AAC2M3P4_tb.vp
+FD:/Verilog/Majority Vote/AAC2M3P4_tb.vp
+!i122 2
+L0 61 54
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1701150769.000000
+!s107 D:/Verilog/Majority Vote/AAC2M3P4_tb.vp|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Verilog/Majority Vote/AAC2M3P4_tb.vp|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@a@a@c2@m3@p4_tb
+vMajority
+R0
+!i10b 1
+!s100 fk?`E8hhECV:^Dm:5KB_i0
+R1
+IRPN8D`AfRk8WSIME0b`@O0
+R2
+R3
+w1701150757
+8D:\Verilog\Majority Vote\AAC2M3P4.v
+FD:\Verilog\Majority Vote\AAC2M3P4.v
+!i122 1
+L0 37 14
+R4
+r1
+!s85 0
+31
+!s108 1701150768.000000
+!s107 D:\Verilog\Majority Vote\AAC2M3P4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\Verilog\Majority Vote\AAC2M3P4.v|
+!i113 1
+R5
+R6
+n@majority
